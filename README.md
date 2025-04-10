@@ -40,12 +40,29 @@ A full-stack web application that helps students keep track of their job applica
 
 ```bash
 git clone https://github.com/your-username/student-job-tracker.git
-cd student-job-tracker```
+cd student-job-tracker
+```
 
 ## 🔧 Backend Setup
 
 ### 1. Navigate to the Backend Folder
 
 ```bash
-cd server```
+cd server
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Configure .env
+
+Create a .env file inside the server directory:
+
+```bash
+MONGO_URI=your_mongodb_atlas_uri
+PORT=5000
+```
 
