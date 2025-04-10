@@ -40,12 +40,12 @@ A full-stack web application that helps students keep track of their job applica
 
 ```bash
 git clone https://github.com/your-username/student-job-tracker.git
-cd student-job-tracker
+cd student-job-tracker```
 
 ## 🔧 Backend Setup
 
 ### 1. Navigate to the Backend Folder
 
 ```bash
-cd server
+cd server```
 
